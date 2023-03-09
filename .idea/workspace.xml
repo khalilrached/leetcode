@@ -1,23 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2214372f-ccfb-45f9-9116-45c549241db2" name="Changes" comment="" />
+    <list default="true" id="2214372f-ccfb-45f9-9116-45c549241db2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/FileContentIndex/4d56df55-ecaf-4ca0-8164-34292f5f3fd4.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/FileContentIndex/read.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/v17/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/v17/ipch/AutoPCH/ede89b8aafd522fb/PROBLEMS.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/problems.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/problems.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/problems.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/problems.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/problems.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.obj.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/problems.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.vcxproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/vc143.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/vc143.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shared/shared_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/ServerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/TestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/TestAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/util/DownloadBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddToArrayFromInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BestTeamScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaxDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ZigzagConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDownloadBar.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2L6rRMRszDYNhNeWBVzRYJe7Qm1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zoro\Desktop\www\leetcode\shared" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.polytech.tp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainActivity">
+    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AddStrings" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ContainerWithMostWater" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.polytech.udp.MainActivity" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.polytech.udp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZigzagConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ZigzagConversion" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.polytech.udp.MainActivity" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true" show_console_on_std_out="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Java/jdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.polytech.udp.MainActivity" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.polytech.udp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainActivity" />
+      <item itemvalue="Application.AddStrings" />
+      <item itemvalue="Application.ContainerWithMostWater" />
+      <item itemvalue="Application.com.polytech.udp.MainActivity" />
+      <item itemvalue="Application.ZigzagConversion" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainActivity" />
+        <item itemvalue="Application.com.polytech.udp.MainActivity" />
+        <item itemvalue="Application.ContainerWithMostWater" />
+        <item itemvalue="Application.ZigzagConversion" />
+        <item itemvalue="Application.AddStrings" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +209,50 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/polytech/tp/Client.java</url>
+          <line>10</line>
+          <properties class="com.polytech.tp.Client" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/AddToArrayFromInt.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/AddStrings.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ZigzagConversion.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ZigzagConversion.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ContainerWithMostWater.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$Client.ic" NAME="Client Coverage Results" MODIFIED="1675889472738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.polytech.tp.*</FILTER>
+    </SUITE>
   </component>
 </project>

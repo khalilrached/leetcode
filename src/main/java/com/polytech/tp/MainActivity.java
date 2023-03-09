@@ -1,2 +1,4 @@
-package com.polytech.tp;public class MainActivity {
+package com.polytech.tp;
+
+public class MainActivity {
 }

@@ -4,10 +4,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.InetAddress;
 import java.net.Socket;
-import java.net.UnknownHostException;
-import java.util.List;
 
-public class Client {
+public class Client2 {
     public static void main(String[] args) {
         try{
             Socket socket = new Socket(InetAddress.getLocalHost(),5000);

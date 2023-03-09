@@ -1,11 +1,10 @@
 package org.example;
 
 import java.util.HashMap;
-import java.util.List;
 
-public class Main {
+public class BestTeamScore {
     class Solution {
-        // 
+        // https://leetcode.com/problems/best-team-with-no-conflicts/
         public static int bestTeamScore(int[] scores, int[] ages) {
             int score = 0,conflict_key = 0,oldest_player_age = ages[0],oldest_player_score = scores[0];
             HashMap<Integer,Integer> highest_score = new HashMap<>();
