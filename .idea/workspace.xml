@@ -5,60 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2214372f-ccfb-45f9-9116-45c549241db2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/FileContentIndex/4d56df55-ecaf-4ca0-8164-34292f5f3fd4.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/FileContentIndex/read.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/v17/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/v17/Browse.VC.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/.vs/problems/v17/ipch/AutoPCH/ede89b8aafd522fb/PROBLEMS.ipch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/problems.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/problems.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/problems.vcxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/problems.vcxproj.filters" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/problems.vcxproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.exe.recipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.ilk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.obj.enc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/CL.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/CL.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/CL.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/link.command.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/link.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/link.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.tlog/problems.lastbuildstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/problems.vcxproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/vc143.idb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/x64/Debug/vc143.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/shared_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/Client2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/ServerResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/tp/TestFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/udp/TestAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/util/DownloadBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddToArrayFromInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BestTeamScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaxDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ZigzagConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestDownloadBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveNthFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwapNodesInKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,23 +35,35 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2L6rRMRszDYNhNeWBVzRYJe7Qm1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/khalil/Desktop/www/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Zoro\Desktop\www\leetcode\shared" />
@@ -103,22 +72,9 @@
       <recent name="com.polytech.tp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainActivity">
-    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.AddStrings" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ContainerWithMostWater" />
+  <component name="RunManager" selected="Application.SwapNodesInPairs">
+    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GenerateParentheses" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigzagConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ZigzagConversion" />
+    <configuration name="RemoveNthFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RemoveNthFromEndOfList" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapNodesInPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SwapNodesInPairs" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -172,19 +141,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SwapNodesInPairs" />
+      <item itemvalue="Application.RemoveNthFromEndOfList" />
+      <item itemvalue="Application.GenerateParentheses" />
       <item itemvalue="Application.MainActivity" />
-      <item itemvalue="Application.AddStrings" />
-      <item itemvalue="Application.ContainerWithMostWater" />
       <item itemvalue="Application.com.polytech.udp.MainActivity" />
-      <item itemvalue="Application.ZigzagConversion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapNodesInPairs" />
+        <item itemvalue="Application.RemoveNthFromEndOfList" />
+        <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.MainActivity" />
         <item itemvalue="Application.com.polytech.udp.MainActivity" />
-        <item itemvalue="Application.ContainerWithMostWater" />
-        <item itemvalue="Application.ZigzagConversion" />
-        <item itemvalue="Application.AddStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -196,8 +165,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675202366623</updated>
+      <workItem from="1694986503148" duration="1425000" />
+      <workItem from="1695044646497" duration="5136000" />
+      <workItem from="1695113361980" duration="4611000" />
+      <workItem from="1695395504446" duration="5993000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -247,6 +223,15 @@
           <line>6</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/GenerateParentheses.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
